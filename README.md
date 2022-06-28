@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @brizzbob
-- 👀 I’m interested in Cloud Development, Machine Learning, Game Development
+- 👀 I’m interested in Cloud Development, Machine Learning, and Game Development
 - 🌱 I’m currently learning C#, Python, JS, HTML
 
 <!---
